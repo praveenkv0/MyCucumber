@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="98.574049">
+<testcase classname="verifying the Adactin functionalities with Different types of rooms" name="verifying adactin hotel booking functionalities with different types of rooms" time="98.574049">
+<system-out><![CDATA[Given User has an adactin account...........................................passed
+When User should enter "praveenkv" and "5K6G51".............................passed
+And User should click the login button......................................passed
+And User should select "Melbourne","Hotel Sunshine","Standard","1","1" and "0".passed
+And User should click the search button.....................................passed
+And user should click the checkbox..........................................passed
+And User should click continue..............................................passed
+And User should enter the "praveen", "kv", "adadaada", "1234567891234567", "VISA", "2", "2022" and "1234".passed
+And User should click book now..............................................passed
+Then User should print the order id.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
